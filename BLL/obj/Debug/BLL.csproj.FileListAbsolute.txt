@@ -1,0 +1,10 @@
+Z:\git\ClickCart\BLL\bin\Debug\BLL.dll
+Z:\git\ClickCart\BLL\bin\Debug\BLL.pdb
+Z:\git\ClickCart\BLL\bin\Debug\DAL.dll
+Z:\git\ClickCart\BLL\bin\Debug\DAL.pdb
+Z:\git\ClickCart\BLL\bin\Debug\DAL.dll.config
+Z:\git\ClickCart\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+Z:\git\ClickCart\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+Z:\git\ClickCart\BLL\obj\Debug\BLL.csproj.CopyComplete
+Z:\git\ClickCart\BLL\obj\Debug\BLL.dll
+Z:\git\ClickCart\BLL\obj\Debug\BLL.pdb
