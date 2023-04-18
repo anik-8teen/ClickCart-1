@@ -1,6 +1,8 @@
-# Project Name
+# ClickCart
 ### Project Logo
-![CLICKCART](https://raw.githubusercontent.com/ZuhairTarif/ClickCart/ab578d96fe4fe9264ca4749b380dc2fe8937ea9b/logos/ClickCart1.svg)
+<img src="https://raw.githubusercontent.com/ZuhairTarif/ClickCart/f858716c3b8c7bc9d8004597e155e9e5c3fc1252/logos/ClickCart2.svg" alt="Image description" style="width: 100px; height: 100px; float: left; margin-left: 20px;">
+<img src="https://raw.githubusercontent.com/ZuhairTarif/ClickCart/ab578d96fe4fe9264ca4749b380dc2fe8937ea9b/logos/ClickCart1.svg" alt="Image description" style="width: 120px; height: 150px; float: right; margin-right: 20px;">
+
 
 
 ## Description
