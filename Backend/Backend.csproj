@@ -109,11 +109,10 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Controllers\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BLL\BLL.csproj">
-      <Project>{7b30a6d8-2cf3-4e75-bd03-f83b0ec64b7e}</Project>
+    <ProjectReference Include="BLL\BLL.csproj">
+      <Project>{07a5846c-69b4-420d-9c40-0a2a098df138}</Project>
       <Name>BLL</Name>
     </ProjectReference>
   </ItemGroup>
